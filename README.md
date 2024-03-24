@@ -1,9 +1,6 @@
 # Angular Exemplar
 
 This is an experimental branch for setting an Angular project with best practices. 
-
-# AngularExemplar
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
 ## Development server
