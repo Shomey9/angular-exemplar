@@ -1,0 +1,6 @@
+,angular/cache/
+.vscode/
+coverage/
+dist/
+reports/
+lib/
